@@ -1,4 +1,4 @@
-# 🌿 Natural Bioactive Anti-Aging Phytochemical Database & App
+# Natural Bioactive Anti-Aging Phytochemical Database & App
 
 > An interactive web application built in Python using Streamlit to explore, classify, and visualize bioactive phytochemical families (Polyphenols, Terpenoids, Carotenoids, etc.).
 
@@ -19,7 +19,7 @@
 
 ---
 
-## Overview & Objectives
+## Objectives
 
 This project combines **Text Mining**, **Data Science**, and **Biotechnology** to organize and categorize natural bioactive molecules with anti-aging properties.
 
@@ -38,7 +38,7 @@ This project combines **Text Mining**, **Data Science**, and **Biotechnology** t
 
 ---
 
-## Key Features
+## Key Features of the project
 
 * **Search & Filtering:** Explore molecules by chemical family (Polyphenols, Terpenoids, Alkaloids, Carotenoids, Lipids).
 * **Predictive Analysis:** Automated bio-active classification using Naive Bayes.
