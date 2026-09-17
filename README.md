@@ -4,13 +4,21 @@
 
 ---
 
-## 📸 Project Overview
+## Project Overview
 
-*(Drag and drop 1 or 2 screenshots from your Canva presentation or Streamlit app here)*
+
+<img width="511" height="256" alt="image" src="https://github.com/user-attachments/assets/9bc37c58-9037-4aae-8248-6507736420ae" />
+
+<img width="508" height="248" alt="image" src="https://github.com/user-attachments/assets/6dcc4d0d-7cc4-42e1-a30b-744347b41611" />
+
+<img width="488" height="238" alt="image" src="https://github.com/user-attachments/assets/0ac47b58-f570-41bd-9869-c24df5e493ad" />
+
+
+
 
 ---
 
-## 💡 Overview & Objectives
+## Overview & Objectives
 
 This project combines **Text Mining**, **Data Science**, and **Biotechnology** to organize and categorize natural bioactive molecules with anti-aging properties.
 
@@ -20,7 +28,7 @@ This project combines **Text Mining**, **Data Science**, and **Biotechnology** t
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 * **Language:** Python
 * **Data & Machine Learning:** Pandas, NumPy, Scikit-Learn (Naive Bayes)
@@ -29,15 +37,15 @@ This project combines **Text Mining**, **Data Science**, and **Biotechnology** t
 
 ---
 
-## 🚀 Key Features
+## Key Features
 
-* 🔍 **Search & Filtering:** Explore molecules by chemical family (Polyphenols, Terpenoids, Alkaloids, Carotenoids, Lipids).
-* 📊 **Predictive Analysis:** Automated bio-active classification using Naive Bayes.
-* 📈 **Data Visualization:** Interactive plots displaying molecular properties.
+* **Search & Filtering:** Explore molecules by chemical family (Polyphenols, Terpenoids, Alkaloids, Carotenoids, Lipids).
+* **Predictive Analysis:** Automated bio-active classification using Naive Bayes.
+* **Data Visualization:** Interactive plots displaying molecular properties.
 
 ---
 
-## ⚙️ Local Setup
+## Local Setup
 
 ```bash
 # Clone the repository
